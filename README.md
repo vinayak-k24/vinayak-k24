@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinayak-k24
-- 👀 I’m interested in ... Coding and Hacking
+<!--- - 👀 I’m interested in ... Coding and Hacking --->
 - 🌱 I’m currently doing ... Engineering in Computer Science
 - 💞️ I’m looking to collaborate on ... 
 . 
